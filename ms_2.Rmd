@@ -1,0 +1,17 @@
+---
+title: "MS 2"
+author: "Austin Li"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project 1: Fingerprints of Colonization, Chloe Shawah
+This project is very intricate, and uses a large data set to accomplish its goals. The data is very well represented given the large data points. The graphs however, could have been utilized more effectively. Moreover, the data is subject to subjective analysis and sorting based on the user's position, in addition to the somewhat vague dates and characterization of "colonizers." I think that Chloe did a great job digging through a large data set and representing the different data points in a digestible manner.
+
+
+## Project 2: Gun Violence in San Francisco and Oakland
+The regression graphs used too few data points to accurately graph a regression. Because the data gathered only spans six years, the time intervals seem too big of jumps. Perhaps digging through more data would provide a more linear and accurate representation of the data. Otherwise, I think this project was a good and effective presentation of ideas that will benefit the community. I think perhaps one way to improve the data would be to look at some root causes of violence in these neighborhoods to contextualize the data.
